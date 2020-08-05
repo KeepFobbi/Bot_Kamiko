@@ -63,7 +63,7 @@ namespace ip
 
                 StartSession = DateTime.Now;
 
-                Stream data = webClient.OpenRead("https://2ip.ru/");
+                Stream data = webClient.OpenRead("http://ip-address.ru/");
                 StreamReader reader = new StreamReader(data);
                 Regex regex = new Regex(@"([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})");
                 MatchCollection match = regex.Matches(reader.ReadToEnd());

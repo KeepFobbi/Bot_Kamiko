@@ -40,3 +40,16 @@ D:\ip\ip\bin\Debug\ip.pdb
 D:\ip\ip\bin\Debug\Newtonsoft.Json.dll
 D:\ip\ip\bin\Debug\Newtonsoft.Json.xml
 D:\ip\ip\obj\Debug\ip.csproj.CopyComplete
+D:\Development\Bot_Kamiko\ip\bin\Debug\ip.exe.config
+D:\Development\Bot_Kamiko\ip\bin\Debug\ip.exe
+D:\Development\Bot_Kamiko\ip\bin\Debug\ip.pdb
+D:\Development\Bot_Kamiko\ip\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Bot_Kamiko\ip\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.csprojAssemblyReference.cache
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.Form1.resources
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.Properties.Resources.resources
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.csproj.GenerateResource.cache
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.csproj.CoreCompileInputs.cache
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.csproj.CopyComplete
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.exe
+D:\Development\Bot_Kamiko\ip\obj\Debug\ip.pdb
